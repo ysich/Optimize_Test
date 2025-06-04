@@ -2,6 +2,8 @@
 
 初始化工程
 
+![image-20250605011951690](Log.assets/image-20250605011951690.png)
+
 ![image-20250604223505361](Log.assets/image-20250604223505361.png)
 
 ![image-20250604223359010](Log.assets/image-20250604223359010.png)
